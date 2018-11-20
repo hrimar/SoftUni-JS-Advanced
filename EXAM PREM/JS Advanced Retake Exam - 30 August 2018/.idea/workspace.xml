@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037f9674-2f17-4a89-8b80-269dae8f6a7c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1754558976">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="91" value="1" />
+          <entry key="html" value="3" />
+          <entry key="js" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="js" value="7072" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="7072" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04/makeReservation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>holiday</find>
+      <find>container</find>
+      <find>value</find>
+      <find>addPersonalInformation</find>
+      <find>continueForm</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>holidayPackage</replace>
+      <replace>val()</replace>
+      <replace>submitForm</replace>
+      <replace>addPaymentDetails</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/holidayDestinations.html" />
+        <option value="$PROJECT_DIR$/solution.js" />
+        <option value="$PROJECT_DIR$/file.js" />
+        <option value="$PROJECT_DIR$/02.HolidayPackage.js" />
+        <option value="$PROJECT_DIR$/3. Vacationer.js" />
+        <option value="$PROJECT_DIR$/makeReservation.html" />
+        <option value="$PROJECT_DIR$/04/makeReservation.html" />
+        <option value="$PROJECT_DIR$/04/solution.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1039" />
+    <option name="width" value="888" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS Advanced Retake Exam - 30 August 2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced Retake Exam - 30 August 2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced Retake Exam - 30 August 2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced Retake Exam - 30 August 2018" type="462c0819:PsiDirectoryNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.solution.js">
+    <configuration name="3. Vacationer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3. Vacationer.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/04">
+      <method v="2" />
+    </configuration>
+    <configuration name="HolidayPackageTests" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/02.HolidayPackage.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="holiday Package Unit Tests" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/02.HolidayPackage.js</test-file>
+      <test-names>
+        <name value="holiday Package Unit Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="holiday Package Unit Tests.generateHolidayPackage" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/02.HolidayPackage.js</test-file>
+      <test-names>
+        <name value="holiday Package Unit Tests" />
+        <name value="generateHolidayPackage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="holiday Package Unit Tests.insuranceIncluded" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/02.HolidayPackage.js</test-file>
+      <test-names>
+        <name value="holiday Package Unit Tests" />
+        <name value="insuranceIncluded" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.HolidayPackageTests" />
+      <item itemvalue="Mocha.holiday Package Unit Tests.insuranceIncluded" />
+      <item itemvalue="Mocha.holiday Package Unit Tests" />
+      <item itemvalue="Mocha.holiday Package Unit Tests.generateHolidayPackage" />
+      <item itemvalue="Node.js.3. Vacationer.js" />
+      <item itemvalue="Node.js.solution.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.solution.js" />
+        <item itemvalue="Node.js.3. Vacationer.js" />
+        <item itemvalue="Mocha.holiday Package Unit Tests" />
+        <item itemvalue="Mocha.holiday Package Unit Tests.generateHolidayPackage" />
+        <item itemvalue="Mocha.holiday Package Unit Tests.insuranceIncluded" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037f9674-2f17-4a89-8b80-269dae8f6a7c" name="Default Changelist" comment="" />
+      <created>1542115742355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542115742355</updated>
+      <workItem from="1542115744683" duration="11914000" />
+      <workItem from="1542175848826" duration="21162000" />
+      <workItem from="1542201102263" duration="3835000" />
+      <workItem from="1542207888308" duration="693000" />
+      <workItem from="1542211873595" duration="3099000" />
+      <workItem from="1542219334446" duration="1884000" />
+      <workItem from="1542263027021" duration="621000" />
+      <workItem from="1542285797334" duration="2912000" />
+      <workItem from="1542288727824" duration="9576000" />
+      <workItem from="1542298881912" duration="596000" />
+      <workItem from="1542353516363" duration="15000" />
+      <workItem from="1542525200365" duration="1359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 14m 41s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 15m 11s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 23m 37s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 25m 52s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests_generateHolidayPackage - 2018.11.14 at 14h 29m 49s.xml">
+      <configuration name="holiday Package Unit Tests.generateHolidayPackage" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests_generateHolidayPackage - 2018.11.14 at 14h 37m 39s.xml">
+      <configuration name="holiday Package Unit Tests.generateHolidayPackage" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests_generateHolidayPackage - 2018.11.14 at 14h 38m 02s.xml">
+      <configuration name="holiday Package Unit Tests.generateHolidayPackage" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 43m 00s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 14h 43m 24s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="holiday_Package_Unit_Tests - 2018.11.14 at 15h 04m 41s.xml">
+      <configuration name="holiday Package Unit Tests" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57666000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1039" y="0" width="888" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13411765" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968238" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2453568" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/holidayDestinations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="50" column="105" selection-start-line="50" selection-start-column="97" selection-end-line="50" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="56" column="31" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Vacationer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makeReservation.html" />
+    <entry file="file://$PROJECT_DIR$/02.HolidayPackage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/makeReservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#label#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
